@@ -16,9 +16,13 @@ A 54-screen, mobile-first operations platform for a catamaran charter company on
 - Before-and-after time study with staff: crew scheduling from 45 to 10 minutes, booking reconciliation from 60 to 10, payroll down to a 15-minute review. Projected ~340 hours saved per season
 - Next.js, React, TypeScript, SQLite, Drizzle ORM, Tailwind · role-based access control · 192 automated tests, 340 commits · deployed on Render
 
-### 🌐 Silvia Navarri · client website
-Paid client project for an independent professional: website and back office, built and deployed end to end.
+### 🎨 Silvia Navarri · digital catalogue for an artist's body of work
+[silvianavarri.com](https://silvianavarri.com)
 
+Paid client project: catalogued, organised and published an artist's full archive of 500 paintings, with a back office she uses to manage it herself.
+
+- Built the catalogue data model for all 500 works: series, year, technique, dimensions and availability
+- Public site with the catalogue to browse, plus an admin panel to add and edit works without code
 - Next.js, Supabase (PostgreSQL), deployed on Vercel
 
 ### 📱 Swipoff · iOS screen-time app
@@ -43,13 +47,6 @@ A two-sided marketplace for pharmacy staffing in Spain. Pharmacies post shifts a
 ---
 
 **Tools:** Notion · Google Sheets · Salesforce · n8n · SQL · Python · Next.js / TypeScript · Supabase · Vercel · Claude Code
-
-**Languages:** Spanish · Catalan · English · Italian (advanced)
-
-📫 [LinkedIn](https://www.linkedin.com/in/julia-saiz-subietas-727630176) · julia.sasubietas@gmail.com
----
-
-**Tools:** Notion · Google Sheets · Salesforce · n8n · SQL · Python · Next.js / TypeScript · Claude Code
 
 **Languages:** Spanish · Catalan · English · Italian (advanced)
 
