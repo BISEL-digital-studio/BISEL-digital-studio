@@ -19,7 +19,7 @@ A 54-screen, mobile-first operations platform for a catamaran charter company on
 ### 🎨 Silvia Navarri · digital catalogue for an artist's body of work
 [silvianavarri.com](https://silvianavarri.com)
 
-Paid client project: catalogued, organised and published an artist's full archive of 500 paintings, with a back office she uses to manage it herself.
+Catalogued, organised and published an artist's full archive of 500 paintings, with a back office she uses to manage it herself.
 
 - Built the catalogue data model for all 500 works: series, year, technique, dimensions and availability
 - Public site with the catalogue to browse, plus an admin panel to add and edit works without code
